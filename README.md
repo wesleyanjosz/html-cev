@@ -1,3 +1,5 @@
+![Logo HTML](./assets/html-logo.png)
+
 # html-cev
 Curso de HTML do Cursoemvideo.com
 
